@@ -8,8 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Horizon11 - English center</title>
+    <meta name="description" content="Siksha - Online Course HTML template">
+    <meta name="keywords"
+        content="education, academy, courses, education landing page, udemy, university, online courses, education center, education Learning, learning" />
 
+    <title>Horizon11 - English center</title>
     <link rel=icon href="assets/img/logo.png" sizes="20x20" type="image/png">
 
     <link rel="stylesheet" href="assets/css/vendor.css">
@@ -20,7 +23,6 @@
 
 <body>
 
-    <!-- Loading Screen -->
     <div class="preloader" id="preloader">
         <div class="preloader-inner">
             <div class="spinner">
@@ -30,7 +32,7 @@
         </div>
     </div>
 
-    <!-- Search Popup -->
+
     <div class="td-search-popup" id="td-search-popup">
         <form action="https://ordainit.com/siksha/index.html" class="search-form">
             <div class="form-group">
@@ -42,7 +44,6 @@
 
     <div class="body-overlay" id="body-overlay"></div>
 
-    <!-- Header Nav -->
     <div class="navbar-area">
         <nav class="navbar navbar-area-3 navbar-area navbar-expand-lg">
             <div class="container nav-container">
@@ -129,28 +130,44 @@
         <div class="container">
             <div class="signin-inner">
                 <form class="signin-form">
-                    <h2 class="text-center">Sign in Here</h2>
+                    <h2 class="text-center">Sign up Here</h2>
+                    <div class="row">
+                        <div class="form-group col-md-6">
+                            <input class="form-control" type="text" name="name" id="name" placeholder="First Name"
+                                required>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <input class="form-control" type="text" name="name" id="name" placeholder="Last Name"
+                                required>
+                        </div>
+                    </div>
                     <div class="form-group">
                         <input class="form-control" type="email" name="email" id="email" placeholder="Email" required>
                     </div>
                     <div class="form-group">
                         <input type="password" class="form-control" id="password" placeholder="Password">
                     </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" id="password" placeholder="Confirm Password"
+                            required>
+                    </div>
                     <div class="row">
                         <div class="col-md-9">
                             <div class="form-check">
                                 <input type="checkbox" name="save_info" id="save_info">
-                                <label class="form-check-label" for="save_info">Remember Email</label>
+                                <label class="form-check-label" for="save_info">Agree with Terms of Use & Privacy
+                                    Policy</label>
                             </div>
                         </div>
                         <div class="col-md-3">
-                            <a href="index-1.html" class="forget-password">Forgot Password?</a>
+                            <a href="recover.html" class="forget-password">Forgot Password?</a>
                         </div>
                     </div>
-                    <button type="submit" class="btn">Sign in</button>
+                    <button type="submit" class="btn">Sign up</button>
                 </form>
-
-                <p class="signin-create-account">Don't have an account ? <a href="signup.html">Sign up</a></p>
+                <div class="signin-other-connection text-center">
+                    <p class="signup-create-account">Already have an account ?<a href="signin.html">Sign in</a></p>
+                </div>
             </div>
         </div>
     </div>
@@ -178,5 +195,6 @@
 
     <script src="assets/js/main.js"></script>
 </body>
+
 
 </html>
