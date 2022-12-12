@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "flaticon";
+  src: url("flaticona2b4.ttf?65427021d691b02297e6e829cc266930") format("truetype"), url("flaticona2b4.woff?65427021d691b02297e6e829cc266930") format("woff"), url("flaticona2b4.woff2?65427021d691b02297e6e829cc266930") format("woff2"), url("flaticona2b4.eot?65427021d691b02297e6e829cc266930#iefix") format("embedded-opentype"), url("flaticona2b4.svg?65427021d691b02297e6e829cc266930#flaticon") format("svg");
+}
+i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-study:before {
+  content: "\f101";
+}
+
+.flaticon-shopping-bag:before {
+  content: "\f102";
+}
+
+.flaticon-keys:before {
+  content: "\f103";
+}
+
+.flaticon-scholarship:before {
+  content: "\f104";
+}
+
+.flaticon-remove-file:before {
+  content: "\f105";
+}
+
+.flaticon-letter-u:before {
+  content: "\f106";
+}
+
+.flaticon-magnet:before {
+  content: "\f107";
+}
+
+.flaticon-letter-u-1:before {
+  content: "\f108";
+}
+
+.flaticon-quotation-mark:before {
+  content: "\f109";
+}
+
+.flaticon-left-quote:before {
+  content: "\f10a";
+}/*# sourceMappingURL=flaticon.css.map */

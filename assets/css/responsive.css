@@ -1,0 +1,893 @@
+/*--------------------------------------------------
+    ## All responsive style
+---------------------------------------------------*/
+@media all and (min-width: 1200px) and  (max-width:1600px){
+	.back-to-top {
+	    right: 70px;
+	    bottom: 50px;
+	}
+	.banner-area-4 .banner-thumbnail .thumb img{
+		position: absolute;
+		right: -160px;
+	}
+	.navbar-style-1::after {
+		position: absolute;
+		width: 75%;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.single-course-inner .details-inner .course-footer {
+		font-size: 14px;
+	}
+}
+@media all and (max-width: 1199px) {
+	.pd-top-120{padding-top: 90px;}
+	.pd-bottom-120{padding-bottom: 90px;}
+	h2{
+		font-size: 32px !important; 
+		line-height: 42px !important;
+	}
+	.navbar-area-1 .search-bar-btn i{
+		color: #ffffff;
+	}
+	.banner-area-1 .thumb {
+	    margin-right: 0;
+	}
+	.banner-inner .title {
+	    font-size: 40px !important;
+	}
+	.mg-top--82 {
+		margin-top: 0;
+	}
+	.navbar-area .nav-container .logo a img{
+		width: 80px;
+		height: auto;
+	}
+	.footer-area .widget_about .thumb img{
+		width: 120px;
+		height: auto;
+	}
+	.single-blog-inner.style-2 .details h6{
+		font-size: 13px;
+	}
+	.banner-area-4 .banner-thumbnail .thumb img {
+		position: absolute;
+		top: -80px;
+		right: 0;
+		z-index: 0;
+		width: 53%;
+	}
+	.banner-area-4 {
+		padding-bottom: 55px;
+		background: none;
+	}
+	.course-slider-2 .evets-single {
+		width: 312px;
+		height: 312px;
+		padding: 30px;
+	}
+	.course-slider-2 .evets-single .events-desc h4{
+		font-size: 16px;
+		padding: 10px 0;
+	}
+	.navbar-style-1:after {
+		position: absolute;
+		width: 78%;
+	}
+	.intro-one-area .single-intro-inner{
+		padding: 30px 27px;
+	}
+	.counter-area .counter-wrapper{
+		padding:42px 0;
+	}
+	.tution-fee-single h4{
+		font-size: 18px; 
+		line-height: 28px;
+	}
+	.single-course-inner .details-inner h4{
+		font-size: 18px;
+	}
+	.widget-recent-post ul li .media .media-body .title{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.widget-recent-post ul li .media .media-left {
+		margin-right: 10px;
+	}
+	.widget-recent-post ul li .media .media-left img {
+		width: 80px;
+	}
+	.banner-area-6 .banner-inner .content{
+		font-size: 16px;
+	}
+	.tution-fee-2 .desc-text p {
+		padding: 0 18% 25px 18%;
+	}
+	.nav-right-part .log-reg-btn .btn-theme{
+		padding: 0 35px;
+	}
+	.nav-right-part .log-reg-btn .btn-base{
+		padding: 0 35px;
+	}
+	.study-area .selection-section {
+		width: 80%;
+		padding: 35px;
+	}
+	.study-area .selection-section  .category-selection, .title-selection, .search-area{
+		padding-right: 0 !important;
+		padding-left: 0;
+	}
+	.banner-area-1 .banner-inner{
+		padding-top: 0;
+	}
+	.intro-one-area.mg-top--120{
+		margin-top: 0;
+	}
+	.chooseus-area .chooseus-single h4{
+		font-size: 18px;
+	}
+	.course-area-2 .course-slider-2 .course-single-box .course-thumb img {
+		width: 90%;
+	}
+	.course-area-2 .course-slider-2 .course-single-box .course-thumb:after{
+		position: absolute;
+		width: 90%;
+	}
+	.course-area-2 .course-slider-2 .course-single-box .course-price {
+		position: absolute;
+		top: 37%;
+		left: 33%;
+	}
+	.top-header .header-contact {
+		width: 50%;
+	}
+	.thumbnail-wrapper .thumb-2 {
+		position: absolute;
+		top: 200px;
+		right: -10px;
+	}
+}
+@media all and (max-width:1024px){
+	.single-testimonial-inner .test-thumb:before {
+		left: 0;
+	}
+
+	.single-testimonial-inner::after {
+		height: 225px;
+	}
+}
+@media all and (max-width: 991px) {
+	.td-search-popup.active .search-form {
+		width: 80%;
+	}
+	.page-title-area {
+	    padding: 110px 0 110px 0;
+	}
+	.single-blog-inner img {
+		width: 100%;
+	}
+	.become-area:before {
+		width: 100%;
+	}
+	.become-area:after {
+		display: none;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav {
+	    padding: 0;
+	}
+	.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children {
+	    padding-right: 0;
+	}
+	.widget_video img {
+		width: 100%;
+	}
+	.td-sidebar {
+		margin-top: 90px;
+	}
+	.banner-area-3 {
+	    padding: 161px 0 150px !important;
+	}
+	.navbar-area-3 .nav-container .navbar-collapse .navbar-nav {
+	    padding: 0 15px;
+	}
+	.navbar-area-3 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+	.navbar-area-3 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:after {
+		background: var(--heading-color);
+	}
+	.thumbnail-wrapper .thumb-2 {
+		width: 60%;
+		position: absolute;
+		top: 80px;
+		right: -40px;
+	}
+	.single-blog-inner.style-2 .details h6{
+		font-size: 16px;
+	}
+	.intro-one-area{
+		margin-top: 0;
+	}
+	.banner-area-4 {
+		padding-bottom: 0px;
+	}
+	.navbar-style-1:after {
+		position: absolute;
+		width: 66%;
+	}
+	.counter-area .counter-wrapper:after{
+		position: absolute;
+		right: 0;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left:after{
+		position: absolute;
+		right: -45px;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left .events-date:after{
+		position: absolute;
+		left: -7px;
+	}
+	.navbar-area-5 .nav-container .navbar-collapse .navbar-nav li a:hover{
+		color: var(--main-color);
+	}
+	.tution-fee-area .tution-fee-content .shape{
+		display: none;
+	}
+	.tution-fee-2 .tution-fee-table .table tr th{
+		font-size: 12px;
+	}
+	.tution-fee-2 .tution-fee-table .table tr td {
+		font-size: 14px;
+	}
+	.work-area-2 .work-single .work-date{
+		position: absolute;
+		top: -80px;
+		right: 0;
+	}
+	.blog-area-5 .blog-content .content-header p{
+		font-size: 14px;
+	}
+	.blog-area-5 .blog-content h4{
+		font-size: 18px;
+	}
+	.aboutus-area .section-content .about-slider{
+		padding: 50px 200px 70px 50px;
+	}
+	.testimonial-area-2  .testimonial-content{
+		text-align: center;
+	}
+	.testimonial-area-2 .owl-nav {
+		position: absolute;
+		left: 50%;
+		bottom: -13%;
+		transform: translateX(-50%);
+	}
+	.category-area .shape-2{
+		position: absolute;
+		right: 0;
+	}
+	.banner-area-5{
+		padding-bottom: 0;
+	}
+	.banner-area-5 .thumb{
+		position: relative;
+		right: 0;
+		bottom: 0;
+		transform: translateX(20%);
+	}
+
+	.intro-style-2 .intro-wrapper {
+		margin-left: 0; 
+	}
+	.banner-area-4 .banner-inner .title {
+		font-size: 30px !important;
+	}
+	.banner-area-4 .banner-inner .content {
+			margin-top: 20px;
+			font-size: 14px;
+	}
+	.top-header .header-contact {
+		width: 60%;
+	}
+	.banner-area {
+		padding-top: 90px;
+	}
+	
+}
+
+@media (max-width: 768px){
+	.course-slider-2 .evets-single {
+	margin: auto;}
+	.owl-dots {
+		margin-top: 20px;
+	}
+	.course-slider-2 .course-single .course-thumb img {
+		width: 41%;
+		height: auto;
+		margin: 0 auto;
+		padding-top: 223px;
+	}
+
+	.banner-section-1 {
+		height: 70vh;
+	}
+
+	.mackbook-img {
+		max-width: 800px;
+		position: absolute;
+		left: 50%;
+		top: 65%;
+		transform: translate(-50%);
+		display: none;
+	}
+
+	.demo-home-style-1 {
+		padding: 100px 0;
+	}
+}
+
+@media all and (max-width: 767px) {
+
+	.intro-style-2 .intro-wrapper {
+		margin-right: 0;
+	}
+
+	.tution-fee-2 .desc-text p {
+		padding: 0 0 25px 0;
+	}
+
+	.single-testimonial-inner::after {
+		height: 310px;
+		bottom: -81px;
+		left: 20px;
+	}
+
+	.pd-top-120{padding-top: 60px;}
+	.pd-bottom-120{padding-bottom: 60px;}
+	h2 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	p{
+		font-size: 14px !important; 
+		line-height: 24px;
+	}
+	
+	.single-course-inner .thumb img {
+		width: 100%;
+	}
+	.single-team-inner .thumb img {
+		width: 100%;
+	}
+	.single-blog-inner .thumb img {
+		width: 100%;
+	}
+	.sikh-course-layout-2 .course-single .thumb::before {
+		height: 36%;
+	}
+	.td-search-popup.active .search-form {
+		width: 90%;
+	}
+	.single-event-inner {
+		display: block;
+	}
+	.single-event-inner .media-left img {
+		width: 100%;
+	}
+	.single-event-inner .media-body .right-arrow {
+		display: none;
+	}
+	.course-area .single-course-inner .details-inner h4{
+		font-size: 16px; line-height: 26px;
+		
+	}
+	.single-course-inner .details-inner .course-header .course-meta ul li span{
+		font-size: 14px; line-height: 24px;
+	}
+	.course-slider-2 .evets-single {
+		width: 355px;
+		height: 355px;
+		padding: 45px;
+		margin:0 auto;
+	}
+	.siksha-tab-inner a {
+	    padding: 0 18px;
+	    margin-bottom: 10px;
+	}
+	.course-slider-2 .owl-dots{
+		margin-left: 28%;
+	}
+	.banner-area-4 .banner-inner {
+		position: relative;
+		z-index: 2;
+		padding-top: 80%;
+	}
+	.banner-area-4 .banner-thumbnail .thumb img {
+		width: 90%;
+	}
+	.banner-area-4:after {
+		background: none;
+	}
+	.course-slider-2 .course-single .course-thumb {
+		max-width: 380px;
+		margin: 0 auto;
+	}
+	.course-slider-2 .course-single .course-thumb img {
+		width: 40%;
+		padding-top: 181px;
+		margin-bottom: 20px;
+	}
+	.work-area .work-wrapper .counter-single{
+		width: 24%;
+	}
+	.category-area .shape{
+		display: none;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left {
+		width: 45%;
+		padding: 15px 0px 0px 20px;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left h4{
+		font-size: 16px;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-right {
+		padding: 0px 20px 0 0;
+	}
+	.tution-fee-2 .tution-fee-table .table tr .fee-title {
+		padding-left: 20px;
+		color: #25292C;
+		width: 60%;
+		padding-right: 10px;
+	}
+	.tution-fee-2 .tution-fee-table .table tr th:first-child {
+		padding-left: 20px;
+	}
+	.tution-fee-2 .tution-fee-table .table tr th:last-child {
+		padding-right: 0px;
+	}
+	.aboutus-area .section-content .about-slider{
+		padding: 50px 40px 70px 40px;
+	}
+	.aboutus-area .section-content .owl-dots {
+		position: absolute;
+		right: 20%;
+	}
+	.contact-area .contact-wrapper .contact-form{
+		width: 100%;
+	}
+	.contact-area .contact-wrapper .contact-form form .form-meta button{
+		margin-left: 10px;
+	}
+	.contact-area .contact-wrapper .contact-thumbnail {
+		position: absolute;
+		right: 0;
+		transform: translate(50px, -100px);
+	}
+	.study-area .study-single{
+		justify-content: center;
+		text-align: center;
+	}
+	.study-area .study-single .study-icon{
+		margin-bottom: 10px;
+	}
+	.inner-shape .ball-3 {
+		position: absolute;
+		right: 0;
+	}
+	.course-area-2 .course-slider-2 h4 {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.work-area-2 .owl-nav {
+		margin-left: 37%;
+	}
+	.course-area-2 .course-slider-2 .course-single-box .course-price {
+		position: absolute;
+		top: 39%;
+		left: 40%;
+	}
+	.about-thumb-wrap .exp-inner-wrap {
+		position: absolute;
+		right: 0;
+	}
+	.top-header{
+		justify-content: center;
+	}
+	.top-header .social-icon {
+		width: 60%;
+	}
+	.thumbnail-wrapper .thumb-2 {
+		width: 50%;
+		position: absolute;
+		top: 150px;
+		right: 0;
+	}
+	.banner-area, .banner-area-2{
+		padding-top: 60px;
+	}
+
+	.banner-area-5 .thumb {
+		transform: translateX(0);
+	}
+
+	.signin-page-area .signin-inner .form-check {
+		font-size: 14px;
+		padding: 0;
+	}
+
+	.signin-page-area .signin-inner a {
+		margin: 0;
+	}
+
+	.signin-page-area .btn {
+		margin-top: 30px;
+	}
+}
+@media all and (max-width: 575px) {
+
+	.blog-area-8 .blog-pagination a {
+		margin-left: 8px;
+	}
+
+	.aboutus-area .section-content .owl-dots {
+		right: auto;
+		bottom: 30px;
+	}
+
+	.newslatter-area-2 form input[type=email] {
+		width: 92%;
+	}
+
+	.single-testimonial-inner::after {
+		height: 344px;
+		bottom: -81px;
+		left: 10px;
+	}
+	.single-testimonial-inner .test-thumb:after {
+		right: -90%;
+	}
+	h2{font-size: 20px !important; line-height: 30px !important;}
+	h3{font-size: 18px; line-height: 28px;}
+	h4{font-size: 16px; line-height: 26px;}
+	h5{font-size: 15px; line-height: 25px;}
+	h6{font-size: 14px; line-height: 24px;}
+	p{font-size: 14px; line-height: 24px;} 
+	.banner-inner .title {
+	    font-size: 22px !important;
+	}
+	.section-title .title {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.banner-inner .content br {
+		display: none;
+	}
+	.nav-tabs .nav-item {
+		width: 100%;
+		text-align: left;
+	}
+	.page-title-area .page-title {
+		font-size: 28px;
+	}
+	.page-title-area .page-title {
+	    margin-bottom: 8px;
+	}
+	.contact-form-inner {
+	    padding: 25px;
+	}
+	.single-blog-inner .blog-meta li {
+	    font-size: 15px;
+	}
+	.banner-form-inner {
+	    padding: 40px 25px;
+	}
+	.about-thumb-wrap .exp-inner-wrap {
+	    max-width: 150px;
+	    font-size: 13px;
+	    padding: 15px;
+	}
+	.about-thumb-wrap.about-right-exp {
+	    padding-right: 40px;
+	}
+	.back-to-top {
+	    right: 18px;
+	    bottom: 20px;
+	}
+	.category-single, .single-intro-inner, .tution-fee-single, .team-single, .counter-list-inner{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left {
+		width: 100%;
+		padding: 15px 0px 0px 20px;
+		margin-right: 0;
+		margin-bottom: 15px;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-right {
+		padding: 0px 20px 0 40px;
+	}
+	.events-area .single-event-inner .media-body .single-event-heading .media-left .events-date:after {
+		position: absolute;
+		left: 0;
+	}
+	.tution-fee-2 .tution-fee-table .table {
+		width: 93%;
+	}
+	.tution-fee-2 .tution-fee-table .table tr .fee-amount{
+		padding-right: 0;
+		border-left: 1px solid #EEEEEE;
+		width: 20%;
+		text-align: center;
+	}
+	.blog-area-3 .owl-nav {
+		position: absolute;
+		left: 30%;
+	}
+	.newslatter-area-2 .btn-base {
+		margin-top: 10px;
+	}
+	.contact-area .contact-inner .contact-single i {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		font-size: 14px;
+	}
+	.contact-area .contact-inner .contact-single span{
+		font-size: 14px;
+	}
+	.study-area .selection-section .category-selection select{
+		font-size: 14px;
+	}
+	.study-area .selection-section .title-selection select{
+		font-size: 14px;
+	} 
+	.study-area .selection-section .search-area form input::placeholder{
+		font-size: 14px;
+	}
+	.study-area .study-single{
+		width: 80%;
+		margin: 0 auto;
+		justify-content: space-between;
+		text-align: left;
+	}
+	.study-area .selection-section{
+		margin: 0 auto;
+	}
+	.tution-fee-area{text-align: center;}
+	.work-area .work-wrapper .counter-single .desc-text{
+		font-size: 14px;
+	}
+	.navbar-style-1:after {
+		position: absolute;
+		width: 52%;
+	}
+
+}
+
+@media all and (max-width: 480px) {
+
+	.sikh-course-layout-2 .course-single .details-inner .cource-meta .course-meta-left {
+		display: block;
+	}
+
+	.sikh-course-layout-2 .course-single .details-inner .cource-meta .course-meta-left .course-duration {
+		padding-top: 10px;
+		padding-left: 0;
+	}
+
+	.faq-area .video-thumb {
+		padding-left: 0;
+	}
+
+	.become-area-inner form .btn {
+		padding-left: 18px;
+		padding-right: 18px;
+	}
+}
+@media all and (max-width: 414px){
+	.single-testimonial-inner::after {
+		height: 272px;
+	}
+}
+
+@media all and (max-width: 375px){
+	.single-testimonial-inner::after {
+		height: 256px;
+	}
+	.course-slider-2 .evets-single {
+		width: 340px;
+		height: 340px;
+	}
+	.course-slider-2 .owl-dots {
+		margin-left: 15%;
+	}
+
+	.work-area .work-wrapper {
+		justify-content: center;
+	}
+
+	.work-area .work-wrapper .counter-single {
+		width: 50%;
+	}
+}
+
+@media all and (max-width: 360px) {
+	.td-page-navigation .pagination li a {
+	    height: 45px;
+	    width: 45px;
+	    line-height: 46px;
+	    font-size: 16px;
+	}
+	.mt-sm-30{margin-top: 30px;}
+	.td-sidebar .widget {
+	    padding: 20px;
+	}
+	.blog-details-page-content blockquote {
+	    padding: 20px 30px;
+	}
+	.thumbnail-wrapper .thumb-2 {
+		position: absolute;
+		top: 115px;
+		right: -150px;
+	}
+	.sikh-course-layout-2 .item .course-single .thumb::before {
+		height: 75px;
+	}
+	.single-accordion-inner .card-header button{
+		font-size: 15px;
+	}
+	.navbar-style-1:after{
+		position: absolute;
+		width: 52%;
+	}
+	.banner-area-4 .banner-thumbnail .thumb img {
+		top: -55px;
+	}
+	.banner-area-4 .banner-inner {
+		padding-top: 60%;
+	}
+	.home-1-about .shape-3{display: none;}
+	.work-area .work-wrapper .counter-single {
+		width: 50%;
+	}
+	.work-area .work-wrapper .counter-single-6{
+		display: block;
+	}
+	.course-slider-2 .evets-single {
+		width: 312px;
+		height: 312px;
+		padding: 30px;
+	}
+	.course-slider-2 .owl-dots {
+		margin-left: 15%;
+	}
+	.blog-area-2 .blog-slider .blog-single .blog-content .blog-content-meta ul li {
+		font-size: 13px;
+	}
+	.tution-fee-2 .tution-fee-table .table tr td{
+		font-size: 12px;
+	}
+	.single-event-area .event-content-inner .list-inner .single-line-inner {
+		width: 100%;
+	}
+	.aboutus-area .section-content .about-slider{
+	 padding: 50px 20px 70px 20px;
+	}
+	.aboutus-area .section-content .owl-dots {
+		position: absolute;
+		left: 3%;
+		bottom: 25px;
+	}
+	.contact-form-inner form .form-item input::placeholder{font-size: 12px;}
+	.contact-form-inner form .single-input-inner, textarea input::placeholder{font-size: 12px;}
+	.contact-area .contact-wrapper .contact-form form .form-meta label{font-size: 11px;}
+	.contact-area .contact-wrapper .contact-form form .form-item input::placeholder{font-size: 12px;}
+	.contact-area .contact-wrapper .contact-form form .comment-box textarea::placeholder{font-size: 12px;}
+	.contact-area .contact-wrapper .contact-form form .form-item, .comment-box label{font-size: 14px;}
+	.contact-area .contact-wrapper .contact-form form .form-meta button{
+		margin-left: 0;
+	}
+	.tution-fee-2 .desc-text p{
+		padding: 0 0 20px 0;
+	}
+	.study-area .selection-section{
+		width: 100%;
+	}
+	.study-area .study-single{
+		width: 80%;
+		margin: 0 auto;
+		justify-content: center;
+		text-align: center;
+	}
+	.become-area-inner .btn{
+		padding: 0 30px;
+	}
+	.event-area .event-pagination a {
+		width: 26px;
+		height: 26px;
+		font-size: 14px;
+		line-height: 26px;
+
+	}
+	.blog-pagination a {
+		width: 26px;
+		height: 26px;
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.single-list-inner {
+		margin-bottom: 5px;
+		padding-left: 20px;
+	}
+	.become-area-inner form input {
+		padding-left: 15px;
+	}
+	.become-area-inner form input::placeholder{
+		font-size: 14px;
+	}
+	.degree-area .about-degree .about-degree-content .about-slider .owl-dots {
+		position: absolute;
+		bottom: 45px;
+	}
+	.degree-area .about-degree .about-degree-content {
+		background-color: #389BFD;
+		padding: 30px 15px;
+		margin-right: 0;
+	}
+	.single-intro-inner.style-large {
+		padding: 20px;
+	}
+	.category-single, .single-intro-inner, .tution-fee-single, .team-single{
+		width: 100%
+	}
+	.home-2-about .shape-3{display: none;}
+	.course-area-2 .course-slider-2 .course-single-box .course-price {
+		position: absolute;
+		top: 37%;
+		left: 35%;
+	}
+	.counter-area .counter-wrapper .counter-single:nth-child(5){
+		margin-right: 10px;
+	}
+	.top-header .social-icon {
+		width: 70%;
+	}
+	.top-header .header-contact{
+		width: 70%;
+	}
+	.banner-area-6 .banner-course{
+		position: absolute;
+		top: -50px;
+	}
+	.thumbnail-wrapper .thumb-2 {
+		width: 65%;
+		position: absolute;
+		top: 120px;
+		right: 0;
+	}
+
+	.signin-page-area .signin-inner .form-check-label {
+		color: #ffffff;
+		font-size: 10px;
+	}
+
+	.signin-page-area .signin-inner a {
+		font-size: 12px;
+	}
+
+	.thumb-style-1 .img-heading-1 {
+		padding: 7px 15px;
+		top: -20px;
+	}
+
+	.thumb-style-1 .img-heading-2 {
+		padding: 7px 15px;
+		bottom: 8%;
+		left: 0;
+	}
+}
+
+
+@media all and (max-width: 320px){
+	.single-testimonial-inner .test-thumb:before {
+		left: -20px;
+	}
+}
