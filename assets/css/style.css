@@ -3177,7 +3177,7 @@ ol {
 .banner-area-4 .banner-thumbnail .thumb img {
   position: absolute;
   top: -175px;
-  right: 0;
+  right: -24px;
   z-index: 0;
 }
 .banner-area-5 {
